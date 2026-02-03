@@ -1,0 +1,3 @@
+[submodule "module_00"]
+	path = module_00
+	url = git@github.com:Gitmard/python_piscine_00.git
