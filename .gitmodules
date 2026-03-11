@@ -13,3 +13,6 @@
 [submodule "module_04"]
 	path = module_04
 	url = git@github.com:Gitmard/python_piscine_04.git
+[submodule "module_05"]
+	path = module_05
+	url = git@github.com:Gitmard/python_piscine_05.git
