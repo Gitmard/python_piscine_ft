@@ -28,3 +28,6 @@
 [submodule "module_09"]
 	path = module_09
 	url = git@github.com:ardsimm/python_piscine_09.git
+[submodule "module_10"]
+	path = module_10
+	url = git@github.com:ardsimm/python_piscine_10.git
